@@ -1,6 +1,6 @@
 package Test::Chado::Cvterm;
 {
-  $Test::Chado::Cvterm::VERSION = 'v4.1.1'; # TRIAL
+  $Test::Chado::Cvterm::VERSION = 'v4.1.1';
 }
 use Moo;
 use MooX::ClassAttribute;

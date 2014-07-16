@@ -1,6 +1,6 @@
 package Test::Chado::DBManager::Sqlite;
 {
-  $Test::Chado::DBManager::Sqlite::VERSION = 'v4.1.1'; # TRIAL
+  $Test::Chado::DBManager::Sqlite::VERSION = 'v4.1.1';
 }
 
 use namespace::autoclean;

@@ -1,6 +1,6 @@
 package Test::Chado::FixtureLoader::Preset;
 {
-  $Test::Chado::FixtureLoader::Preset::VERSION = 'v4.1.1'; # TRIAL
+  $Test::Chado::FixtureLoader::Preset::VERSION = 'v4.1.1';
 }
 use Moo;
 use Test::Chado;

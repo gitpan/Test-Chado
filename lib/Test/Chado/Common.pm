@@ -1,6 +1,6 @@
 package Test::Chado::Common;
 {
-  $Test::Chado::Common::VERSION = 'v4.1.1'; # TRIAL
+  $Test::Chado::Common::VERSION = 'v4.1.1';
 }
 use Moo;
 use MooX::ClassAttribute;

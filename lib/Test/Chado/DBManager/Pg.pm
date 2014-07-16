@@ -1,6 +1,6 @@
 package Test::Chado::DBManager::Pg;
 {
-  $Test::Chado::DBManager::Pg::VERSION = 'v4.1.1'; # TRIAL
+  $Test::Chado::DBManager::Pg::VERSION = 'v4.1.1';
 }
 
 use namespace::autoclean;

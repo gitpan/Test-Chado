@@ -1,6 +1,6 @@
 package Test::Chado::FixtureLoader::Flatfile;
 {
-  $Test::Chado::FixtureLoader::Flatfile::VERSION = 'v4.1.1'; # TRIAL
+  $Test::Chado::FixtureLoader::Flatfile::VERSION = 'v4.1.1';
 }
 
 use Moo;

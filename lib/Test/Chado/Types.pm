@@ -1,6 +1,6 @@
 package Test::Chado::Types;
 {
-  $Test::Chado::Types::VERSION = 'v4.1.1'; # TRIAL
+  $Test::Chado::Types::VERSION = 'v4.1.1';
 }
 
 use Type::Library

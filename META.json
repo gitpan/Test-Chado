@@ -71,7 +71,7 @@
          }
       }
    },
-   "release_status" : "testing",
+   "release_status" : "stable",
    "resources" : {},
    "version" : "v4.1.1"
 }

@@ -1,6 +1,6 @@
 package Test::Chado::Role::HasDBManager;
 {
-  $Test::Chado::Role::HasDBManager::VERSION = 'v4.1.1'; # TRIAL
+  $Test::Chado::Role::HasDBManager::VERSION = 'v4.1.1';
 }
 
 use namespace::autoclean;

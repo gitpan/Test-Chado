@@ -1,6 +1,6 @@
 package Test::Chado::FixtureManager::Flatfile;
 {
-  $Test::Chado::FixtureManager::Flatfile::VERSION = 'v4.1.1'; # TRIAL
+  $Test::Chado::FixtureManager::Flatfile::VERSION = 'v4.1.1';
 }
 use File::ShareDir qw/module_dir/;
 use Moo;

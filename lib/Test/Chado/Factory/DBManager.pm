@@ -1,6 +1,6 @@
 package Test::Chado::Factory::DBManager;
 {
-  $Test::Chado::Factory::DBManager::VERSION = 'v4.1.1'; # TRIAL
+  $Test::Chado::Factory::DBManager::VERSION = 'v4.1.1';
 }
 
 use strict;

@@ -1,6 +1,6 @@
 package Test::Chado::Factory::FixtureLoader;
 {
-  $Test::Chado::Factory::FixtureLoader::VERSION = 'v4.1.1'; # TRIAL
+  $Test::Chado::Factory::FixtureLoader::VERSION = 'v4.1.1';
 }
 
 use strict;

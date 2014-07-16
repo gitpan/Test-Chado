@@ -1,6 +1,6 @@
 package Test::Chado;
 {
-  $Test::Chado::VERSION = 'v4.1.1'; # TRIAL
+  $Test::Chado::VERSION = 'v4.1.1';
 }
 use feature qw/say/;
 use Test::Chado::Factory::DBManager;

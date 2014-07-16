@@ -1,6 +1,6 @@
 package Test::Chado::Role::Helper::WithBcs;
 {
-  $Test::Chado::Role::Helper::WithBcs::VERSION = 'v4.1.1'; # TRIAL
+  $Test::Chado::Role::Helper::WithBcs::VERSION = 'v4.1.1';
 }
 
 # Other modules:

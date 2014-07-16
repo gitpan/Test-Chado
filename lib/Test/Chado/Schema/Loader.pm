@@ -1,6 +1,6 @@
 package Test::Chado::Schema::Loader;
 {
-  $Test::Chado::Schema::Loader::VERSION = 'v4.1.1'; # TRIAL
+  $Test::Chado::Schema::Loader::VERSION = 'v4.1.1';
 }
 
 use base qw/DBIx::Class::Schema::Loader/;

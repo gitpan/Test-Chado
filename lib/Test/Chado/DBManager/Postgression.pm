@@ -1,6 +1,6 @@
 package Test::Chado::DBManager::Postgression;
 {
-  $Test::Chado::DBManager::Postgression::VERSION = 'v4.1.1'; # TRIAL
+  $Test::Chado::DBManager::Postgression::VERSION = 'v4.1.1';
 }
 
 use namespace::autoclean;

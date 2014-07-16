@@ -2,7 +2,7 @@
 
 package populatedbic;
 {
-  $populatedbic::VERSION = 'v4.1.1'; # TRIAL
+  $populatedbic::VERSION = 'v4.1.1';
 }
 
 use strict;

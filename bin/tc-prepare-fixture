@@ -2,7 +2,7 @@
 
 package preparedbic;
 {
-  $preparedbic::VERSION = 'v4.1.1'; # TRIAL
+  $preparedbic::VERSION = 'v4.1.1';
 }
 
 use strict;
